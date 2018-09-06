@@ -1,6 +1,0 @@
-# Add items to not symlink here
-.git
-.gitignore
-README.md
-LICENSE
-setup.sh
