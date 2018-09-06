@@ -19,10 +19,6 @@ This section will include a list of available scripts and documentation on how t
 
 This section will include a list of available configurations and documentation on what they do.
 
-- Lynx
-- Tmux
-- Vim
-
 ## License
 
 MIT License, please see [LICENSE](/LICENSE) for more info.
